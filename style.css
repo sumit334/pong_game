@@ -1,13 +1,16 @@
 #gameContainer{
     text-align: center;
 }
+
 #gameBoard{
     border: 3px solid;
 }
+
 #scoreText{
     font-family: "consolas", monospace;
     font-size: 100px;
 }
+
 #resetBtn{
     font-family: "Permanent Marker", cursive;
     font-size: 22px;
